@@ -1,0 +1,10 @@
+.box1 {
+ padding: 2px;
+ border: 2px solid red;
+ margin: 40px;
+}
+.box2{
+    padding: 2px;
+    border: 2px solid green;
+    margin: 20px;
+}
